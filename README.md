@@ -8,7 +8,7 @@
 
 - 📫 Contate-me através do e-mail: geovanna.amorim03@hotmail.com
 
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronomes: Ela/Dela
 
 - ⚡ Fato Interessante: Gosto de jogar vídeo-game e escutar música em meu tempo livre. 
 
