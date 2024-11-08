@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a impulsionar soluções inovadoras.
 
-<!--
-**GeehDV/GeehDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+- 🎓 Atualmente, estou aprimorando minhas habilidades na resolução de desafios complexos por meio do conhecimento técnico adquirido no curso. Minhas áreas de foco incluem front-end, programação, banco de dados e design de interfaces, minha motivação é explorar novas tecnologias e tendências no mundo da TI. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estudando sobre HTML | CSS | Java | JavaScript | Figma | Adobe Photoshop. Estou trabalhando em projetos pessoais focados em Web Sites, usando a ferramenta Figma para aprimorar minhas habilidades de Design.  
+
+- 📫 Contate-me através do e-mail: geovanna.amorim03@hotmail.com
+
+- 😄 Pronouns: Ela/Dela
+
+- ⚡ Fato Interessante: Gosto de jogar vídeo-game e escutar música em meu tempo livre. 
+
