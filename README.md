@@ -10,5 +10,8 @@
 
 - 😄 Pronomes: Ela/Dela
 
-- ⚡ Fato Interessante: Gosto de jogar vídeo-game e escutar música em meu tempo livre. 
+- ⚡ Fato Interessante: Gosto de jogar vídeo-game e escutar música em meu tempo livre.
+
+- Para mais informações sobre o meu trabalho, acesse o link da minha página pessoal:
+  https://geehdv.github.io/Curriculo/
 
