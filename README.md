@@ -24,7 +24,7 @@ Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a desenvol
     </a>
     <a href="https://geehdv.github.io/Curriculo/">
         <img 
-            alt="Currículo" 
+            alt="Curriculo" 
             title="Conheça minha trajetória!" 
             src="https://custom-icon-badges.demolab.com/github/followers/GeehDV?color=E5DDC5&labelColor=E5DDC5&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=black"
         />
