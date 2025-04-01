@@ -98,11 +98,8 @@ Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a desenvol
     alt="Figma"
     title="Figma" 
     width="30px" 
-    style="padding-right: 10px;" 
-    <i class="ph ph-figma-logo">
-    </i>
-
-
+    style="padding-right: 10px;"
+    src="https://phosphoricons.com?q=%22figma%22"
 />
 <img 
     align="left" 
