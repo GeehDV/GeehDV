@@ -31,14 +31,14 @@ Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a desenvol
     </a> 
     <a href="mailto:geovanna.amorim03@hotmail.com">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="E-mail" 
+            title="Contate-me" 
             src="https://custom-icon-badges.demolab.com/github/followers/GeehDV?color=b2ab99&labelColor=b2ab99&style=for-the-badge&logo=mail&label=E-mail&logoColor=white"
         />
     </a> 
     <a href="https://instagram.com/kdgl_12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
-    <a href = "mailto:geovanna.amorim03@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a href = "mailto:geovanna.amorim1012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/geovanna-amorim-9834a7243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
@@ -99,7 +99,10 @@ Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a desenvol
     title="Figma" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/figma-original.svg" 
+    <i class="ph ph-figma-logo">
+    </i>
+
+
 />
 <img 
     align="left" 
