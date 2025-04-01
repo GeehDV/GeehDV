@@ -24,9 +24,9 @@ Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a desenvol
     </a>
     <a href="mailto:geovanna.amorim03@hotmail.com">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GeehDV?color=E5DDC5&labelColor=E5DDC5&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=black"
+            alt="Curriculo" 
+            title="Curriculo" 
+            src="https://custom-icon-badges.demolab.com/github/followers/GeehDV?color=E5DDC5&labelColor=E5DDC5&style=for-the-badge&logo=curriculo&label=Curriculo&logoColor=black"
         />
     </a> 
     <a href="mailto:geovanna.amorim03@hotmail.com">
