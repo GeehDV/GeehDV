@@ -26,7 +26,7 @@ Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a desenvol
         <img 
             alt="Currículo" 
             title="Conheça minha trajetória!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroHenriques1?color=E5DDC5&labelColor=E5DDC5&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=black"
+            src="https://custom-icon-badges.demolab.com/github/followers/GeehDV?color=E5DDC5&labelColor=E5DDC5&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=black"
         />
     </a> 
     <a href="mailto:geovanna.amorim03@hotmail.com">
