@@ -22,7 +22,7 @@ Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a desenvol
             src="https://custom-icon-badges.demolab.com/github/stars/GeehDV?color=F1EEDC&style=for-the-badge&labelColor=F1EEDC&logo=star&label=estrelas&logoColor=black"
         />
     </a>
-    <a href="https://geehdv.github.io/Curriculo/">
+    <a href="https://geehdv.github.io/Curriculo-Geovanna/">
         <img 
             alt="Curriculo" 
             title="Conheça minha trajetória!" 
