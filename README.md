@@ -6,11 +6,8 @@
 <!--
 //+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+// -->
 
-
-# 👩‍💻 Geovanna Amorim 
-
-<h1 align="center">Hi 👋, I'm Geovanna Amorim</h1>
-<h3 align="center"> Uma entusiasta de tecnologia e estudante dedicada a desenvolver soluções inovadoras. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou aprimorando minhas habilidades na resolução de desafios complexos por meio do conhecimento técnico adquirido. Minhas principais áreas de interesse incluem Suporte Técnico em TI, Desenvolvimento Full Stack, além de UI/UX Design para Web e Games. Minha motivação é explorar novas tecnologias e tendências no mundo da TI.</h3>
+<h1 align="center"> Olá! 👋, Eu sou Geovanna Amorim</h1>
+<h3 align="center"> 👩‍💻  Uma entusiasta de tecnologia e estudante dedicada a desenvolver soluções inovadoras. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou aprimorando minhas habilidades na resolução de desafios complexos por meio do conhecimento técnico adquirido. Minhas principais áreas de interesse incluem Suporte Técnico em TI, Desenvolvimento Full Stack, além de UI/UX Design para Web e Games. Minha motivação é explorar novas tecnologias e tendências no mundo da TI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geehdv&label=Profile%20views&color=0e75b6&style=flat" alt="geehdv" /> </p>
 
