@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/user-attachments/assets/37a8c9f3-0555-46ec-8b91-7e1c85a460ea)
+![MasterHead](https://github.com/user-attachments/assets/67c43b27-d307-4f8c-b0bf-59720de6f7e9)
+
 
 
 <h1 align="center"> Olá! 👋, Eu sou Geovanna Amorim</h1>
