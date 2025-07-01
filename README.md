@@ -51,7 +51,15 @@ Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a desenvol
 ---
 
 ### 🤖 Linguagens e Tecnologias
+### ⚙️ Back-end & Integrações
 <br>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,azure)](https://skillicons.dev)
+
+### 🌐 Front-end & Linguagens Complementares
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,py)](https://skillicons.dev)
 
 <img 
     align="left" 
@@ -93,15 +101,53 @@ Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a desenvol
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+  />
+  
+-->
 
-<br/>
+---
 
+### 📊 Estatísticas
+
+<div style="text-align: center;" align="center">
+  
+  <br>  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GeehDV&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=0d1117&title_color=87CEEB&text_color=f7f7f7&border_radius=3&border_color=87CEEB&icon_color=87CEEB&theme=tokyonight" alt="GitHub status">
+
+<a href="https://github.com/GeehDV/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GeehDV&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=f7f7f7&hide=htl,scss,less&bg_color=0d1117&text_color=f7f7f7&border_radius=3&border_color=87CEEB&icon_color=87CEEB&stats_color=00FF00" alt="Most Used Languages">
+</a>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GeehDV&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=0d1117&title_color=87CEEB&text_color=f7f7f7&border_radius=3&border_color=87CEEB&theme=tokyonight&locale=pt-br" alt="GitHub status" />
+
+</a>
+
+
+
+</div>
 ---
 
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenriques1/PedroHenriques1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHenriques1/PedroHenriques1/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroHenriques1/PedroHenriques1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeehDV/GeehDV/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeehDV/GeehDV/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GeehDV/GeehDV/output/github-contribution-grid-snake.svg">
 </picture>
