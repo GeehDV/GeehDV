@@ -1,8 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%E2%8A%B9" alt="Typing SVG">
+    <img src="https://i.makeagif.com/media/6-29-2022/9OlCZe.gif">
+
   </a>
 </div>
+
 
 <h1 align="center"> Olá! 👋, Eu sou Geovanna Amorim</h1>
 <h3 align="center"> 👩‍💻  Uma entusiasta de tecnologia e estudante dedicada a desenvolver soluções inovadoras. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou aprimorando minhas habilidades na resolução de desafios complexos por meio do conhecimento técnico adquirido. Minhas principais áreas de interesse incluem Suporte Técnico em TI, Desenvolvimento Full Stack, além de UI/UX Design para Web e Games. Minha motivação é explorar novas tecnologias e tendências no mundo da TI.</h3>
@@ -13,7 +16,7 @@
 
 - 🔭 Atualmente estou trabalhando em [Sistema de Pedidos](https://github.com/GeehDV/TavernaEncantada)
 
-- 🌱 Estou aprendendo atualmente = **Java, POO**
+- 🌱 Estou aprendendo atualmente = **Java, POO...**
 
 - 👨‍💻 Todos meus projetos disponíveis em [https://geehdv.github.io/Curriculo-Geovanna/](https://geehdv.github.io/Curriculo-Geovanna/)
 
