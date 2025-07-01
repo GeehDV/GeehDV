@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://i.makeagif.com/media/6-29-2022/9OlCZe.gif">
+    <img src="[https://i.makeagif.com/media/6-29-2022/9OlCZe.gif](https://miro.medium.com/v2/resize:fit:1400/0*8LJD5zS984hPWdEp)">
   </a>
 </div>
 
