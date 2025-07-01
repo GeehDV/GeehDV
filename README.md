@@ -9,145 +9,37 @@
 
 # 👩‍💻 Geovanna Amorim 
 
-**`Desenvolvedor`**
+<h1 align="center">Hi 👋, I'm Geovanna Amorim</h1>
+<h3 align="center">ma entusiasta de tecnologia e estudante dedicada a desenvolver soluções inovadoras. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou aprimorando minhas habilidades na resolução de desafios complexos por meio do conhecimento técnico adquirido. Minhas principais áreas de interesse incluem Suporte Técnico em TI, Desenvolvimento Front-end, UI/UX Design para Web e Games, além de Web Design. Minha motivação é explorar novas tecnologias e tendências no mundo da TI.</h3>
 
-Olá! Sou Geovanna, uma entusiasta de tecnologia e estudante dedicada a desenvolver soluções inovadoras. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou aprimorando minhas habilidades na resolução de desafios complexos por meio do conhecimento técnico adquirido. Minhas principais áreas de interesse incluem Suporte Técnico em TI, Desenvolvimento Front-end, UI/UX Design para Web e Games, além de Web Design. Minha motivação é explorar novas tecnologias e tendências no mundo da TI.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geehdv&label=Profile%20views&color=0e75b6&style=flat" alt="geehdv" /> </p>
 
+- 🔭 Atualmente estou trabalhando em [Sistema de Pedidos](https://github.com/GeehDV/TavernaEncantada)
+
+- 🌱 Estou aprendendo atualmente **Java, POO**
+
+- 👨‍💻 Todos meus projetos disponíveis em [https://geehdv.github.io/Curriculo-Geovanna/](https://geehdv.github.io/Curriculo-Geovanna/)
+
+- 💬 Pergunte-me sobre **Help Desk, Java**
+
+- 📫 Como me encontrar **geovanna.amorim03@hotmail.com**
+
+- 📄 Know about my experiences [https://geehdv.github.io/Curriculo-Geovanna/](https://geehdv.github.io/Curriculo-Geovanna/)
+
+- ⚡ Fato curioso **Faço coleção de jogos de console**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    </a> 
-    <a href="https://github.com/GeehDV?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GeehDV?color=F1EEDC&style=for-the-badge&labelColor=F1EEDC&logo=star&label=estrelas&logoColor=black"
-        />
-    </a>
-    <a href="https://geehdv.github.io/Curriculo-Geovanna/">
-        <img 
-            alt="Curriculo" 
-            title="Conheça minha trajetória!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GeehDV?color=E5DDC5&labelColor=E5DDC5&style=for-the-badge&logo=curriculo&label=Curriculo&logoColor=black"
-        />
-    </a> 
-    <a href="mailto:geovanna.amorim03@hotmail.com">
-        <img 
-            alt="E-mail" 
-            title="Contate-me" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GeehDV?color=b2ab99&labelColor=b2ab99&style=for-the-badge&logo=mail&label=E-mail&logoColor=white"
-        />
-    </a> 
-    <a href="https://instagram.com/kdgl_12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <a href = "mailto:geovanna.amorim1012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/geovanna-amorim-9834a7243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-    
-  </p>
-
-</div>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/geovanna-amorim-9834a7243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geovanna-amorim-9834a7243/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/kdgl_12/?locale=gb&hl=am-et" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kdgl_12/?locale=gb&hl=am-et" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/geovannaamorim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/geovannaamorim2" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### 🤖 Linguagens e Tecnologias
-### ⚙️ Back-end & Integrações
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geehdv&show_icons=true&locale=en&layout=compact" alt="geehdv" /></p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,azure)](https://skillicons.dev)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geehdv&show_icons=true&locale=en" alt="geehdv" /></p>
 
-### 🌐 Front-end & Linguagens Complementares
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,py)](https://skillicons.dev)
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Springboot"
-    title="Springboot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-  />
-  
--->
-
----
-
-### 📊 Estatísticas
-
-<div style="text-align: center;" align="center">
-  
-  <br>  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GeehDV&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=0d1117&title_color=87CEEB&text_color=f7f7f7&border_radius=3&border_color=87CEEB&icon_color=87CEEB&theme=tokyonight" alt="GitHub status">
-
-<a href="https://github.com/GeehDV/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GeehDV&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=f7f7f7&hide=htl,scss,less&bg_color=0d1117&text_color=f7f7f7&border_radius=3&border_color=87CEEB&icon_color=87CEEB&stats_color=00FF00" alt="Most Used Languages">
-</a>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=GeehDV&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=0d1117&title_color=87CEEB&text_color=f7f7f7&border_radius=3&border_color=87CEEB&theme=tokyonight&locale=pt-br" alt="GitHub status" />
-
-</a>
-
-
-
-</div>
----
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeehDV/GeehDV/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeehDV/GeehDV/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GeehDV/GeehDV/output/github-contribution-grid-snake.svg">
-</picture>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geehdv&" alt="geehdv" /></p>
