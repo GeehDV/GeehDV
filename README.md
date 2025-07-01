@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/89facc41-193b-4e80-a62e-42c508cb9c0f)
+![MasterHead](https://github.com/user-attachments/assets/49e2d3f9-38b7-4232-a081-1870883150ed)
 
 <h1 align="center"> Olá! 👋, Eu sou Geovanna Amorim</h1>
 <h3 align="center"> 👩‍💻  Uma entusiasta de tecnologia e estudante dedicada a desenvolver soluções inovadoras. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou aprimorando minhas habilidades na resolução de desafios complexos por meio do conhecimento técnico adquirido. Minhas principais áreas de interesse incluem Suporte Técnico em TI, Desenvolvimento Full Stack, além de UI/UX Design para Web e Games. Minha motivação é explorar novas tecnologias e tendências no mundo da TI.</h3>
