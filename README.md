@@ -44,8 +44,22 @@
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geehdv&show_icons=true&locale=en&layout=compact" alt="geehdv" /></p>
+<h3 align="left">📊 Estatísticas:  </h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geehdv&show_icons=true&locale=en" alt="geehdv" /></p>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geehdv&" alt="geehdv" /></p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
