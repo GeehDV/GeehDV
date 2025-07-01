@@ -7,7 +7,7 @@
 <h1 align="center"> Olá! 👋, Eu sou Geovanna Amorim</h1>
 <h3 align="center"> 👩‍💻  Uma entusiasta de tecnologia e estudante dedicada a desenvolver soluções inovadoras. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou aprimorando minhas habilidades na resolução de desafios complexos por meio do conhecimento técnico adquirido. Minhas principais áreas de interesse incluem Suporte Técnico em TI, Desenvolvimento Full Stack, além de UI/UX Design para Web e Games. Minha motivação é explorar novas tecnologias e tendências no mundo da TI.</h3>
 
-<img align="right" alt="Coding" width = "400" scr="https://camo.githubusercontent.com/fe9c58fcf5f2230be260ea1f9e5f588f3ad0c332cead570a9b48e8baaec68bd7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3458586f384137434957316c5a476764686d2f67697068792e676966">
+<img align="right" alt="Coding" width = "400" src="https://camo.githubusercontent.com/fe9c58fcf5f2230be260ea1f9e5f588f3ad0c332cead570a9b48e8baaec68bd7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3458586f384137434957316c5a476764686d2f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geehdv&label=Profile%20views&color=0e75b6&style=flat" alt="geehdv" /> </p>
 
