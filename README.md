@@ -24,7 +24,7 @@
 
 - 📄 Saiba mais sobre minhas experiências = [https://geehdv.github.io/Curriculo-Geovanna/](https://geehdv.github.io/Curriculo-Geovanna/)
 
-- ⚡ Fato curioso **Faço coleção de jogos de console**
+- ⚡ Fato curioso = **Faço coleção de jogos de console**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
