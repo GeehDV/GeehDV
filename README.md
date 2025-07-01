@@ -23,11 +23,11 @@
 
 - ⚡ Fato curioso = **Faço coleção de jogos de console (PS3)**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">📲 Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/geovanna-amorim-9834a7243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geovanna-amorim-9834a7243" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kdgl_12/?locale=gb&hl=am-et" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kdgl_12" height="30" width="40" /></a>
+<a href="https://www.behance.net/geovannaamorim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Geovanna Amorim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">⚙️ Linguagens e Ferramentas: </h3>
